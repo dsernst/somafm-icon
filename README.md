@@ -11,7 +11,7 @@ Here's the old icon:
 
 The look is retro and alternative, which is endearing in a sort of way. It matches the station's brand.
 
-One issue is the `S` is just too large. It looks unbalanced, and stands out a bit too much.
+**One issue is the `S` is just too large.** It looks unbalanced, and stands out a bit too much.
 
 Here's the same icon, with an `S` that fits a bit better:
 
