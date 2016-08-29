@@ -2,7 +2,7 @@
 
 ### Tweak the icon for SomaFM
 
-SomaFM is amazing. The perfect radio station for 24 hours a day. For hanging out, or getting work done.
+[SomaFM](http://somafm.com/) is amazing. The perfect radio station for 24 hours a day. For hanging out, or getting work done.
 
 This is an attempt to tweak the iOS app's icon.
 
