@@ -1,5 +1,6 @@
 # somafm-icon
-Tweaks the icon for SomaFM
+
+### Tweak the icon for SomaFM
 
 SomaFM is amazing. The perfect radio station for 24 hours a day. For hanging out, or getting work done.
 
