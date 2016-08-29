@@ -2,7 +2,7 @@
 
 ### Tweak the icon for SomaFM
 
-[SomaFM](http://somafm.com/) is amazing. [Groove Salad](https://somafm.com/groovesalad/) is perfect radio station for 24 hours a day. For hanging out, or getting work done.
+[SomaFM](http://somafm.com/) is amazing. [Groove Salad](https://somafm.com/groovesalad/) is the perfect radio station for 24 hours a day listening. For hanging out, or getting work done.
 
 This is an attempt to tweak the iOS app's icon.
 
